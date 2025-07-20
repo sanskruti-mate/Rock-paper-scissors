@@ -23,7 +23,7 @@ A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.
 
 ##  How to Run
 
-1. Clone the repository-
+1. Clone the repository-"https://github.com/sanskruti-mate/Rock-paper-scissors.git"
 2. Open `index.html` in any browser.
     Contact
 
